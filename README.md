@@ -1,6 +1,6 @@
-# Raccoon Detector Dataset
+# Pizza Detector Dataset
 
-This is a dataset that I collected to train my own Raccoon detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 200 images (160 are used for training and 40 for validation).
+This is a dataset that I collected to train my own Pizza detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). Images are from Google and Pixabay. In total, there are 200 images (160 are used for training and 40 for validation).
 
 ## Getting Started
 
@@ -19,4 +19,3 @@ split labels is used to split the full labels into train and test labels
 ## Copyright
 
 See [LICENSE](LICENSE) for details.
-Copyright (c) 2017 [Dat Tran](http://www.dat-tran.com/).
