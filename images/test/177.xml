@@ -1,0 +1,37 @@
+<annotation>
+    <folder>images</folder>
+    <filename>177.jpeg</filename>
+    <size>
+        <width>275</width>
+        <height>183</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pizza</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>29</x1>
+            <y1>158</y1>
+            <x2>152</x2>
+            <y2>136</y2>
+            <x3>226</x3>
+            <y3>119</y3>
+            <x4>268</x4>
+            <y4>93</y4>
+            <x5>219</x5>
+            <y5>29</y5>
+            <x6>114</x6>
+            <y6>18</y6>
+        </polygon>
+        <bndbox>
+            <xmin>29</xmin>
+            <ymin>18</ymin>
+            <xmax>268</xmax>
+            <ymax>158</ymax>
+        </bndbox>
+    </object>
+</annotation>

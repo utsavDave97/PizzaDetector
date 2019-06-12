@@ -1,0 +1,35 @@
+<annotation>
+    <folder>images</folder>
+    <filename>4.jpeg</filename>
+    <size>
+        <width>266</width>
+        <height>190</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pizza</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <polygon>
+            <x1>76</x1>
+            <y1>110</y1>
+            <x2>138</x2>
+            <y2>156</y2>
+            <x3>151</x3>
+            <y3>13</y3>
+            <x4>73</x4>
+            <y4>20</y4>
+            <x5>22</x5>
+            <y5>57</y5>
+        </polygon>
+        <bndbox>
+            <xmin>22</xmin>
+            <ymin>13</ymin>
+            <xmax>151</xmax>
+            <ymax>156</ymax>
+        </bndbox>
+    </object>
+</annotation>

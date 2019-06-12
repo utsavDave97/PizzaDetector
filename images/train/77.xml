@@ -1,0 +1,23 @@
+<annotation>
+    <folder>images</folder>
+    <filename>77.jpeg</filename>
+    <size>
+        <width>218</width>
+        <height>232</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pizza</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>24</xmin>
+            <ymin>10</ymin>
+            <xmax>211</xmax>
+            <ymax>223</ymax>
+        </bndbox>
+    </object>
+</annotation>

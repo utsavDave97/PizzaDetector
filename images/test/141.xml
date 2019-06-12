@@ -1,0 +1,36 @@
+<annotation>
+    <folder>images</folder>
+    <filename>141.jpeg</filename>
+    <size>
+        <width>262</width>
+        <height>193</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>pizza</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>172</xmin>
+            <ymin>64</ymin>
+            <xmax>204</xmax>
+            <ymax>80</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>pizza</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <occluded>0</occluded>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>70</xmin>
+            <ymin>146</ymin>
+            <xmax>164</xmax>
+            <ymax>164</ymax>
+        </bndbox>
+    </object>
+</annotation>
