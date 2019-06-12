@@ -16,6 +16,10 @@ for the TF API and xml_to_csv.py is used to convert the xml files into one csv
 - detect.tflite: this tflite file could be used in Android Pizza Detector App.
 ```
 
+## Results inside Android App
+
+![Result Screenshot In App](https://github.com/utsavDave97/PizzaDetector/blob/master/screenshots/screenshot.png)
+
 ## Copyright
 
 See [LICENSE](LICENSE) for details.
